@@ -16,7 +16,7 @@ Footer hissəsini tam sıfırdan kodlaşdıraraq aşağıdakı funksionallıqlar
 ### 2. Media Queries & Responsivlik (Mobil Uyğunluq)
 Saytın təkcə kompüterlərdə deyil, həm də mobil telefon və planşetlərdə mükəmməl görünməsi üçün `Media Queries` hissəsini hazırladım:
 * **Adaptivlik:** Ekran ölçüsü kiçildikdə Footer və digər elementlərin sıradan çıxmaması üçün xüsusi CSS qaydaları yazdım.
-* **Breakpoint-lər:** 768px (planşet) və 480px (mobil) üçün xüsusi görünüşlər təyin etdim.
+* **Breakpoint-lər:** Planşet və mobil üçün xüsusi görünüşlər təyin etdim.
 * **Grid to Column:** Masaüstü versiyada yanaşı duran blokların mobil versiyada alt-alta düşməsini təmin edərək oxunaqlılığı artırdım.
 
 ##  Texnologiya:
